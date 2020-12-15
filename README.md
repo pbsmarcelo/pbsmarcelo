@@ -1,9 +1,18 @@
-### Tudo bem? espero que sim! 👋
+## Tudo bem? espero que sim! 👋
+Sou formado em Engenharia Elétrica/Telecomunicações e estou em busca novas oportunidades no merdado de TI 💻!
 
-<!--[Linkedin](https://www.linkedin.com/in/pbsmarcelo/)-->
+### Buscando novos conhecimentos!
+Estudando, estudando e estudando!
+* [JavaScript](https://www.devmedia.com.br/certificado/tecnologia/javascript/marcelo-patrik-bitencourt-da-silva)
+* [GIT](https://www.devmedia.com.br/certificado/tecnologia/git/marcelo-patrik-bitencourt-da-silva)
+* [CSS3](https://www.devmedia.com.br/certificado/tecnologia/css/marcelo-patrik-bitencourt-da-silva)
+* [HTML5](https://www.devmedia.com.br/certificado/tecnologia/html/marcelo-patrik-bitencourt-da-silva)
 
-Meu linkedin: 👇🏼
+### Meu linkedin: 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pbsmarcelo/)](https://www.linkedin.com/in/pbsmarcelo/)
+
+
+<!--[Linkedin](https://www.linkedin.com/in/pbsmarcelo/)-->
 
 
