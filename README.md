@@ -1,8 +1,8 @@
 ## Tudo bem? espero que sim! 👋
-Sou formado em Engenharia Elétrica/Telecomunicações e estou em busca novas oportunidades no merdado de TI 💻!
+Me chamo Marcelo, sou formado em Engenharia Elétrica/Telecomunicações e estou em busca novas oportunidades no merdado de TI 💻!
 
-### Buscando novos conhecimentos!
-Estudando, estudando e estudando!
+### Estudando, estudando e estudando! 🧠🧠🧠
+
 * [JavaScript](https://www.devmedia.com.br/certificado/tecnologia/javascript/marcelo-patrik-bitencourt-da-silva)
 * [GIT](https://www.devmedia.com.br/certificado/tecnologia/git/marcelo-patrik-bitencourt-da-silva)
 * [CSS3](https://www.devmedia.com.br/certificado/tecnologia/css/marcelo-patrik-bitencourt-da-silva)
