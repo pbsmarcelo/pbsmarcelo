@@ -1,9 +1,9 @@
 ## Tudo bem? espero que sim! 👋
-Me chamo Marcelo, sou formado em Engenharia Elétrica/Telecomunicações. Estou em busca de redirecionar minha carreira para a área de desenvolvimento de sistemas. 
+Me chamo Marcelo, sou formado em Engenharia Elétrica/Telecomunicações e estou cursando uma pós graduação na área de Engenharia de Softwares para Dispositivos Móveis. 
 
-Meu objetivo é poder atuar profissionalmente como desenvolvedor/ programador de softwares / analista de testes QA 💻!
+Gosto de estudar assuntos relacionados a área de tecnologia 💻!
 
-### Estudando! 🧠🧠🧠
+### No momento, estou estudando os assuntos abaixo:
 
 * [JavaScript](https://www.devmedia.com.br/certificado/tecnologia/javascript/marcelo-patrik-bitencourt-da-silva)
 * [GIT](https://www.devmedia.com.br/certificado/tecnologia/git/marcelo-patrik-bitencourt-da-silva)
