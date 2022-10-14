@@ -1,5 +1,5 @@
-## Tudo bem? espero que sim! 👋
-Me chamo Marcelo, sou formado em Engenharia Elétrica/Telecomunicações e estou cursando uma pós graduação na área de Engenharia de Softwares para Dispositivos Móveis. 
+## Olá! 
+Me chamo Marcelo, sou formado em Engenharia Elétrica/Telecomunicações e pós graduado na área de Engenharia de Softwares para Dispositivos Móveis. 
 
 Gosto de estudar assuntos relacionados a área de tecnologia 💻!
 
@@ -12,7 +12,7 @@ Gosto de estudar assuntos relacionados a área de tecnologia 💻!
 * [Algoritmos](https://www.devmedia.com.br/certificado/tecnologia/algoritmo/marcelo-patrik-bitencourt-da-silva)
 * [Algoritmos e lógica de programação](https://www.udemy.com/certificate/UC-20b45152-bbe0-4c40-a515-520b090a6737/)
 
-### Meu linkedin: 👇🏼
+### linkedin: 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pbsmarcelo/)](https://www.linkedin.com/in/pbsmarcelo/)
 
